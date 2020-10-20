@@ -1,0 +1,19 @@
+{
+  "name": "heroes",
+  "version": "1.0.0",
+  "description": "Heroes game clone",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ri-szi/heroes.git"
+  },
+  "author": "mryszawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ri-szi/heroes/issues"
+  },
+  "homepage": "https://github.com/Ri-szi/heroes#readme"
+}
