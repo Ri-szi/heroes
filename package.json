@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Heroes game clone",
   "main": "src/main.js",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
